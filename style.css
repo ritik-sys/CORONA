@@ -1,0 +1,181 @@
+.top_corona {
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  height: 50px;
+  width: 380px;
+  font-family: muli;
+  padding-top: 10px;
+  color:#1b262c
+}
+
+h3 {
+  margin: -17px auto 0 auto;
+  width: 168px;
+  height: 27px;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.img_1 {
+  margin-top: 0;
+  width: 329px;
+  height: 390px;
+  position: absolute;
+  top: 134px;
+  left: 576px;
+}
+
+.chart_img {
+  width: 294px;
+  height: 288px;
+  position: absolute;
+  top: 163px;
+  left: 218px;
+}
+
+.map_img {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 183px;
+  right: 198px;
+}
+
+.photos_container {
+  background-color: #363651;
+  height: 400px;
+}
+
+.top_container {
+  background-color: #EAB64E;
+  height:110px;
+}
+
+.question_1 {
+  color: white;
+  background-color: #EAB64E;
+}
+
+.what_is_corona {
+  margin-top: 0;
+  font-size: 30px;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 36px;
+}
+
+.question_mark1 {
+  height: 62px;
+    width: 82px;
+    position: relative;
+    left: -388px;
+    top: -44px;
+}
+.answer1{
+  position: relative;
+    top: -93px;
+    right: -424px;
+    width: 50%;
+    text-align: left;
+    font-size: large;
+}
+.question_2{
+  color: white;
+  background-color: #363651;
+  margin-top: -20px;
+}
+.what_are_symptoms{
+  margin-top: 0;
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 362px;
+    margin-right: auto;
+    padding-top: 36px;
+    color: white;
+}
+.answer2{
+  position: relative;
+    top: -93px;
+    right: -429px;
+    width: 50%;
+    text-align: left;
+    font-size: large;
+}
+.question_mark2 {
+  height: 62px;
+    width: 82px;
+    position: relative;
+    left: -388px;
+    top: -25px;
+}
+.question_3{
+  color: white;
+  background-color: #EAB64E;
+  margin-top: -20px;
+}
+.should_doctor{
+  margin-top: 0;
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 324px;
+    margin-right: auto;
+    padding-top: 36px;
+    color: white;
+}
+.answer3{
+  position: relative;
+    top: -93px;
+    right: -429px;
+    width: 50%;
+    text-align: left;
+    font-size: large;
+}
+.question_mark3 {
+  height: 62px;
+    width: 82px;
+    position: relative;
+    left: -388px;
+    top: -25px;
+}
+.footer{
+  background-color: #1b262c;
+  height:100px;
+  margin-top: -23px;
+}
+.EMERGENCY{
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  size:large;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #EAB64E 5%, #EAB64E 100%);
+	background-color:#EAB64E;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
